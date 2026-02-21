@@ -1,0 +1,56 @@
+export const events = [
+  {
+    id: 1,
+    title: '2월 신규 수강생 20% 할인 이벤트',
+    color: '#E31837',
+    status: 'active',
+    startDate: '2026-02-01',
+    endDate: '2026-02-28',
+    description: '<h3>이벤트 내용</h3><p>2월 한 달간 신규 가입 후 첫 수강 시 전 강의 20% 할인 혜택을 드립니다!</p><h3>참여 방법</h3><ul><li>회원가입 후 쿠폰 자동 발급</li><li>수강신청 시 쿠폰 적용</li></ul><h3>유의사항</h3><p>타 쿠폰과 중복 사용 불가. 1인 1회 한정.</p>'
+  },
+  {
+    id: 2,
+    title: '토익 1000제 무료 제공 이벤트',
+    color: '#1A2B5F',
+    status: 'active',
+    startDate: '2026-02-10',
+    endDate: '2026-03-10',
+    description: '<h3>이벤트 내용</h3><p>토익 강의 수강생에게 토익 실전 1000제 PDF를 무료로 제공합니다!</p><h3>참여 방법</h3><ul><li>토익 카테고리 강의 수강신청</li><li>마이페이지에서 자료 다운로드</li></ul>'
+  },
+  {
+    id: 3,
+    title: '친구 추천 적립금 이벤트',
+    color: '#FF6B00',
+    status: 'active',
+    startDate: '2026-01-15',
+    endDate: '2026-03-31',
+    description: '<h3>이벤트 내용</h3><p>친구를 추천하면 추천인과 피추천인 모두에게 10,000원 적립금을 드립니다!</p>'
+  },
+  {
+    id: 4,
+    title: '2025 하반기 수강 후기 이벤트',
+    color: '#00A651',
+    status: 'ended',
+    startDate: '2025-10-01',
+    endDate: '2025-12-31',
+    description: '<h3>이벤트 내용</h3><p>수강 후기를 작성하면 추첨을 통해 스타벅스 기프티콘을 드렸습니다.</p><p>이벤트가 종료되었습니다.</p>'
+  },
+  {
+    id: 5,
+    title: '자격증 합격 축하 이벤트',
+    color: '#9C27B0',
+    status: 'ended',
+    startDate: '2025-11-01',
+    endDate: '2026-01-31',
+    description: '<h3>이벤트 내용</h3><p>해커스 자격증 강의를 수강 후 합격한 분들에게 환급 혜택을 제공했습니다.</p>'
+  },
+  {
+    id: 6,
+    title: '봄맞이 취업 패키지 할인',
+    color: '#2196F3',
+    status: 'active',
+    startDate: '2026-02-15',
+    endDate: '2026-03-15',
+    description: '<h3>이벤트 내용</h3><p>취업 카테고리 강의를 2개 이상 함께 수강하면 30% 추가 할인!</p><h3>대상 강의</h3><ul><li>NCS 직업기초능력 완전정복</li><li>면접 완벽 대비 마스터</li><li>자기소개서 작성 완벽 가이드</li></ul>'
+  }
+]
