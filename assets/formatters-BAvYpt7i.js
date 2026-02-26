@@ -1,0 +1,1 @@
+const e=new Intl.NumberFormat("ko-KR");function a(t){return e.format(t)}function n(t){return t>=1e4?(t/1e4).toFixed(1).replace(/\.0$/,"")+"만":e.format(t)}function o(t){const r=new Date(t);return`${r.getFullYear()}.${String(r.getMonth()+1).padStart(2,"0")}.${String(r.getDate()).padStart(2,"0")}`}export{o as a,a as b,n as f};
