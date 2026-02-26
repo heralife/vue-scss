@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="750" viewBox="0 0 1200 750">
+  <rect width="1200" height="750" fill="#f5f5f5"/>
+  <defs><filter id="s"><feDropShadow dx="0" dy="2" stdDeviation="4" flood-opacity="0.08"/></filter></defs>
+
+  <!-- Header -->
+  <rect width="1200" height="64" fill="#ffffff"/>
+  <text x="32" y="40" font-family="Arial" font-size="22" font-weight="bold" fill="#E31837">해커스<tspan fill="#1A2B5F">교육</tspan></text>
+  <rect x="1130" y="20" width="60" height="28" rx="4" fill="#E31837"/>
+  <text x="1140" y="39" font-family="Arial" font-size="13" fill="#fff">회원가입</text>
+
+  <!-- Category Nav -->
+  <rect y="64" width="1200" height="48" fill="#1A2B5F"/>
+  <text x="80" y="94" font-family="Arial" font-size="14" fill="#fff">어학</text>
+
+  <!-- Breadcrumb -->
+  <text x="32" y="140" font-family="Arial" font-size="13" fill="#888">홈 / 강의 목록 / 해커스 토익 700+ 실전반</text>
+
+  <!-- Course Hero -->
+  <rect x="32" y="160" width="520" height="292" rx="8" fill="#1A2B5F"/>
+  <text x="292" y="316" font-family="Arial" font-size="18" font-weight="bold" fill="rgba(255,255,255,0.9)" text-anchor="middle">해커스 토익 700+ 실전반</text>
+
+  <rect x="32" y="160" width="48" height="22" rx="11" fill="#E31837" x="44" y="170"/>
+  <text x="50" y="185" font-family="Arial" font-size="11" fill="white" font-weight="bold">베스트</text>
+
+  <rect x="32" y="164" width="48" height="22" rx="11" fill="#E31837"/>
+  <text x="44" y="179" font-family="Arial" font-size="11" fill="white" font-weight="bold">베스트</text>
+
+  <!-- Course Info Right -->
+  <rect x="32" y="462" width="780" height="1" fill="#eee"/>
+
+  <text x="580" y="190" font-family="Arial" font-size="12" fill="#E31837" font-weight="bold">TOEIC</text>
+  <text x="580" y="220" font-family="Arial" font-size="22" font-weight="bold" fill="#1A1A1A">해커스 토익 700+ 실전반</text>
+  <text x="580" y="248" font-family="Arial" font-size="14" fill="#666">2개월 만에 토익 700점 돌파하는 전략 강의</text>
+  <text x="580" y="278" font-family="Arial" font-size="14" fill="#FFB800">★★★★★</text>
+  <text x="660" y="278" font-family="Arial" font-size="13" fill="#888">4.7 (1,284개의 수강후기)</text>
+  <text x="580" y="300" font-family="Arial" font-size="13" fill="#888">수강생 5,420명</text>
+  <text x="580" y="326" font-family="Arial" font-size="13" fill="#666">강사: <tspan fill="#333" font-weight="bold">김해커</tspan></text>
+
+  <!-- Tabs -->
+  <rect x="32" y="468" width="780" height="46" fill="white" filter="url(#s)"/>
+  <text x="80" y="498" font-family="Arial" font-size="14" font-weight="bold" fill="#E31837">강의소개</text>
+  <rect x="80" y="510" width="52" height="2" fill="#E31837"/>
+  <text x="180" y="498" font-family="Arial" font-size="14" fill="#888">커리큘럼</text>
+  <text x="280" y="498" font-family="Arial" font-size="14" fill="#888">수강후기</text>
+  <text x="380" y="498" font-family="Arial" font-size="14" fill="#888">강사소개</text>
+
+  <!-- Description Content -->
+  <rect x="32" y="520" width="780" height="210" rx="8" fill="white" filter="url(#s)"/>
+  <text x="56" y="554" font-family="Arial" font-size="16" font-weight="bold" fill="#1A1A1A">강의 소개</text>
+  <text x="56" y="580" font-family="Arial" font-size="13" fill="#555">토익 700점을 목표로 하는 수험생을 위한 실전 대비 강의입니다.</text>
+  <text x="56" y="600" font-family="Arial" font-size="13" fill="#555">LC와 RC 파트를 균형있게 학습하며, 빈출 유형 공략법을 익힙니다.</text>
+  <text x="56" y="636" font-family="Arial" font-size="15" font-weight="bold" fill="#1A1A1A">이런 것을 배워요</text>
+  <text x="56" y="658" font-family="Arial" font-size="13" fill="#00A651">✓</text><text x="72" y="658" font-family="Arial" font-size="13" fill="#555"> LC Part별 핵심 공략법</text>
+  <text x="56" y="676" font-family="Arial" font-size="13" fill="#00A651">✓</text><text x="72" y="676" font-family="Arial" font-size="13" fill="#555"> RC 시간 단축 전략</text>
+  <text x="56" y="694" font-family="Arial" font-size="13" fill="#00A651">✓</text><text x="72" y="694" font-family="Arial" font-size="13" fill="#555"> 빈출 어휘 1000개 마스터</text>
+
+  <!-- Sticky Sidebar -->
+  <rect x="832" y="160" width="336" height="380" rx="8" fill="white" filter="url(#s)"/>
+  <text x="870" y="200" font-family="Arial" font-size="14" fill="#E31837" font-weight="bold">31%</text>
+  <text x="910" y="200" font-family="Arial" font-size="13" fill="#ccc" text-decoration="line-through">259,000원</text>
+  <text x="870" y="238" font-family="Arial" font-size="28" font-weight="bold" fill="#1A1A1A">179,000원</text>
+  <line x1="852" y1="258" x2="1148" y2="258" stroke="#eee"/>
+  <text x="870" y="284" font-family="Arial" font-size="13" fill="#888">수강기간</text><text x="1090" y="284" font-family="Arial" font-size="13" font-weight="bold" fill="#333" text-anchor="end">60일</text>
+  <text x="870" y="308" font-family="Arial" font-size="13" fill="#888">강의수</text><text x="1090" y="308" font-family="Arial" font-size="13" font-weight="bold" fill="#333" text-anchor="end">48강</text>
+  <text x="870" y="332" font-family="Arial" font-size="13" fill="#888">난이도</text><text x="1090" y="332" font-family="Arial" font-size="13" font-weight="bold" fill="#333" text-anchor="end">중급</text>
+  <rect x="852" y="352" width="296" height="48" rx="6" fill="#E31837"/>
+  <text x="1000" y="382" font-family="Arial" font-size="16" font-weight="bold" fill="white" text-anchor="middle">수강신청</text>
+  <rect x="852" y="408" width="296" height="48" rx="6" fill="white" stroke="#E31837" stroke-width="1.5"/>
+  <text x="1000" y="438" font-family="Arial" font-size="15" fill="#E31837" text-anchor="middle">장바구니 담기</text>
+</svg>

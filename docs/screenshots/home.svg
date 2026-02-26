@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="750" viewBox="0 0 1200 750">
+  <rect width="1200" height="750" fill="#f5f5f5"/>
+
+  <!-- Header -->
+  <rect width="1200" height="64" fill="#ffffff" filter="url(#shadow)"/>
+  <defs><filter id="shadow"><feDropShadow dx="0" dy="1" stdDeviation="2" flood-opacity="0.08"/></filter></defs>
+  <text x="32" y="40" font-family="Arial" font-size="22" font-weight="bold" fill="#E31837">해커스<tspan fill="#1A2B5F">교육</tspan></text>
+  <text x="280" y="40" font-family="Arial" font-size="14" fill="#555">어학</text>
+  <text x="340" y="40" font-family="Arial" font-size="14" fill="#555">자격증</text>
+  <text x="400" y="40" font-family="Arial" font-size="14" fill="#555">취업</text>
+  <text x="460" y="40" font-family="Arial" font-size="14" fill="#555">이벤트</text>
+  <rect x="800" y="18" width="220" height="32" rx="16" fill="#f5f5f5"/>
+  <text x="820" y="39" font-family="Arial" font-size="13" fill="#aaa">강의 검색...</text>
+  <rect x="1060" y="20" width="60" height="28" rx="4" fill="#f5f5f5"/>
+  <text x="1075" y="39" font-family="Arial" font-size="13" fill="#555">로그인</text>
+  <rect x="1130" y="20" width="60" height="28" rx="4" fill="#E31837"/>
+  <text x="1140" y="39" font-family="Arial" font-size="13" fill="#fff">회원가입</text>
+
+  <!-- Category Nav -->
+  <rect y="64" width="1200" height="48" fill="#1A2B5F"/>
+  <text x="80" y="94" font-family="Arial" font-size="14" fill="#fff">어학</text>
+  <text x="180" y="94" font-family="Arial" font-size="14" fill="#fff">자격증</text>
+  <text x="280" y="94" font-family="Arial" font-size="14" fill="#fff">취업</text>
+
+  <!-- Hero Banner -->
+  <rect y="112" width="1200" height="380" fill="#1A2B5F"/>
+  <text x="600" y="270" font-family="Arial" font-size="14" fill="rgba(255,255,255,0.7)" text-anchor="middle">해커스 토익 베스트셀러 강의</text>
+  <text x="600" y="315" font-family="Arial" font-size="36" font-weight="bold" fill="#ffffff" text-anchor="middle">토익 단기 고득점 달성!</text>
+  <text x="600" y="355" font-family="Arial" font-size="16" fill="rgba(255,255,255,0.8)" text-anchor="middle">2개월 만에 200점 상승, 지금 시작하세요</text>
+  <rect x="480" y="380" width="240" height="48" rx="8" fill="#ffffff"/>
+  <text x="600" y="411" font-family="Arial" font-size="16" font-weight="bold" fill="#1A2B5F" text-anchor="middle">강의 보기</text>
+  <!-- Dots -->
+  <circle cx="575" cy="470" r="6" fill="white"/>
+  <circle cx="600" cy="470" r="6" fill="rgba(255,255,255,0.4)"/>
+  <circle cx="625" cy="470" r="6" fill="rgba(255,255,255,0.4)"/>
+
+  <!-- Popular Courses Section -->
+  <rect y="492" width="1200" height="258" fill="#f5f5f5"/>
+  <text x="600" y="530" font-family="Arial" font-size="20" font-weight="bold" fill="#1A1A1A" text-anchor="middle">인기강의 TOP 8</text>
+
+  <!-- Course Cards -->
+  <g transform="translate(32,545)">
+    <rect width="262" height="170" rx="8" fill="white" filter="url(#shadow)"/>
+    <rect width="262" height="90" rx="8 8 0 0" fill="#1A2B5F"/>
+    <rect x="8" y="8" width="48" height="18" rx="9" fill="#E31837"/>
+    <text x="14" y="21" font-family="Arial" font-size="10" fill="white" font-weight="bold">베스트</text>
+    <text x="12" y="112" font-family="Arial" font-size="11" fill="#888">TOEIC</text>
+    <text x="12" y="130" font-family="Arial" font-size="13" font-weight="bold" fill="#1A1A1A">해커스 토익 700+ 실전반</text>
+    <text x="12" y="148" font-family="Arial" font-size="11" fill="#FFB800">★ 4.7</text>
+    <text x="12" y="163" font-family="Arial" font-size="12" font-weight="bold" fill="#1A1A1A">179,000원</text>
+  </g>
+  <g transform="translate(310,545)">
+    <rect width="262" height="170" rx="8" fill="white" filter="url(#shadow)"/>
+    <rect width="262" height="90" rx="8 8 0 0" fill="#FF6B00"/>
+    <rect x="8" y="8" width="48" height="18" rx="9" fill="#00A651"/>
+    <text x="16" y="21" font-family="Arial" font-size="10" fill="white" font-weight="bold">NEW</text>
+    <text x="12" y="112" font-family="Arial" font-size="11" fill="#888">영어회화</text>
+    <text x="12" y="130" font-family="Arial" font-size="13" font-weight="bold" fill="#1A1A1A">왕초보 영어회화 탈출</text>
+    <text x="12" y="148" font-family="Arial" font-size="11" fill="#FFB800">★ 4.8</text>
+    <text x="12" y="163" font-family="Arial" font-size="12" font-weight="bold" fill="#1A1A1A">79,000원</text>
+  </g>
+  <g transform="translate(588,545)">
+    <rect width="262" height="170" rx="8" fill="white" filter="url(#shadow)"/>
+    <rect width="262" height="90" rx="8 8 0 0" fill="#2196F3"/>
+    <text x="12" y="112" font-family="Arial" font-size="11" fill="#888">컴퓨터활용능력</text>
+    <text x="12" y="130" font-family="Arial" font-size="13" font-weight="bold" fill="#1A1A1A">컴활 1급 실기 완성</text>
+    <text x="12" y="148" font-family="Arial" font-size="11" fill="#FFB800">★ 4.8</text>
+    <text x="12" y="163" font-family="Arial" font-size="12" font-weight="bold" fill="#1A1A1A">149,000원</text>
+  </g>
+  <g transform="translate(866,545)">
+    <rect width="262" height="170" rx="8" fill="white" filter="url(#shadow)"/>
+    <rect width="262" height="90" rx="8 8 0 0" fill="#00A651"/>
+    <rect x="8" y="8" width="48" height="18" rx="9" fill="#E31837"/>
+    <text x="14" y="21" font-family="Arial" font-size="10" fill="white" font-weight="bold">베스트</text>
+    <text x="12" y="112" font-family="Arial" font-size="11" fill="#888">취업</text>
+    <text x="12" y="130" font-family="Arial" font-size="13" font-weight="bold" fill="#1A1A1A">NCS 직업기초능력 완전정복</text>
+    <text x="12" y="148" font-family="Arial" font-size="11" fill="#FFB800">★ 4.7</text>
+    <text x="12" y="163" font-family="Arial" font-size="12" font-weight="bold" fill="#1A1A1A">219,000원</text>
+  </g>
+</svg>

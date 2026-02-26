@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="750" viewBox="0 0 1200 750">
+  <rect width="1200" height="750" fill="#f5f5f5"/>
+
+  <!-- Header -->
+  <rect width="1200" height="64" fill="#ffffff"/>
+  <text x="32" y="40" font-family="Arial" font-size="22" font-weight="bold" fill="#E31837">해커스<tspan fill="#1A2B5F">교육</tspan></text>
+  <rect x="1130" y="20" width="60" height="28" rx="4" fill="#E31837"/>
+  <text x="1140" y="39" font-family="Arial" font-size="13" fill="#fff">회원가입</text>
+
+  <!-- Category Nav -->
+  <rect y="64" width="1200" height="48" fill="#1A2B5F"/>
+  <text x="80" y="94" font-family="Arial" font-size="14" fill="#fff">어학</text>
+  <text x="180" y="94" font-family="Arial" font-size="14" fill="#fff">자격증</text>
+
+  <!-- Breadcrumb -->
+  <text x="32" y="140" font-family="Arial" font-size="13" fill="#888">홈 / 어학 / TOEIC</text>
+
+  <!-- Layout: Sidebar + Grid -->
+  <!-- Sidebar Filter -->
+  <rect x="32" y="160" width="220" height="560" rx="8" fill="#ffffff"/>
+  <text x="52" y="192" font-family="Arial" font-size="14" font-weight="bold" fill="#1A1A1A">카테고리</text>
+  <circle cx="56" cy="215" r="6" fill="#E31837"/><text x="70" y="220" font-family="Arial" font-size="13" fill="#333">TOEIC</text>
+  <circle cx="56" cy="240" r="6" fill="none" stroke="#ccc" stroke-width="1.5"/><text x="70" y="245" font-family="Arial" font-size="13" fill="#888">TOEFL</text>
+  <circle cx="56" cy="265" r="6" fill="none" stroke="#ccc" stroke-width="1.5"/><text x="70" y="270" font-family="Arial" font-size="13" fill="#888">영어회화</text>
+  <line x1="52" y1="290" x2="232" y2="290" stroke="#eee"/>
+  <text x="52" y="316" font-family="Arial" font-size="14" font-weight="bold" fill="#1A1A1A">난이도</text>
+  <circle cx="56" cy="338" r="6" fill="none" stroke="#ccc" stroke-width="1.5"/><text x="70" y="343" font-family="Arial" font-size="13" fill="#888">입문</text>
+  <circle cx="56" cy="362" r="6" fill="#E31837"/><text x="70" y="367" font-family="Arial" font-size="13" fill="#333">중급</text>
+  <circle cx="56" cy="386" r="6" fill="none" stroke="#ccc" stroke-width="1.5"/><text x="70" y="391" font-family="Arial" font-size="13" fill="#888">고급</text>
+
+  <!-- Sort Bar -->
+  <rect x="272" y="160" width="896" height="44" rx="6" fill="#ffffff"/>
+  <text x="290" y="188" font-family="Arial" font-size="13" fill="#555">총 <tspan fill="#E31837" font-weight="bold">15</tspan>개의 강의</text>
+  <rect x="940" y="168" width="68" height="28" rx="4" fill="#E31837"/>
+  <text x="955" y="187" font-family="Arial" font-size="12" fill="#fff">인기순</text>
+  <text x="1020" y="187" font-family="Arial" font-size="12" fill="#888">최신순</text>
+  <text x="1076" y="187" font-family="Arial" font-size="12" fill="#888">가격순</text>
+  <text x="1132" y="187" font-family="Arial" font-size="12" fill="#888">평점순</text>
+
+  <!-- Course Cards Grid (3 columns) -->
+  <defs><filter id="s"><feDropShadow dx="0" dy="2" stdDeviation="3" flood-opacity="0.07"/></filter></defs>
+
+  <g transform="translate(272,216)">
+    <rect width="278" height="195" rx="8" fill="white" filter="url(#s)"/>
+    <rect width="278" height="105" rx="8 8 0 0" fill="#1A2B5F"/>
+    <rect x="8" y="8" width="48" height="18" rx="9" fill="#E31837"/>
+    <text x="14" y="21" font-family="Arial" font-size="10" fill="white" font-weight="bold">베스트</text>
+    <text x="12" y="127" font-family="Arial" font-size="11" fill="#888">TOEIC</text>
+    <text x="12" y="147" font-family="Arial" font-size="13" font-weight="bold" fill="#1A1A1A">해커스 토익 700+ 실전반</text>
+    <text x="12" y="165" font-family="Arial" font-size="11" fill="#FFB800">★ 4.7</text>
+    <text x="140" y="165" font-family="Arial" font-size="11" fill="#ccc" text-decoration="line-through">259,000원</text>
+    <text x="12" y="185" font-family="Arial" font-size="14" font-weight="bold" fill="#1A1A1A">179,000원</text>
+  </g>
+
+  <g transform="translate(566,216)">
+    <rect width="278" height="195" rx="8" fill="white" filter="url(#s)"/>
+    <rect width="278" height="105" rx="8 8 0 0" fill="#0F1A3E"/>
+    <rect x="8" y="8" width="48" height="18" rx="9" fill="#E31837"/>
+    <text x="14" y="21" font-family="Arial" font-size="10" fill="white" font-weight="bold">베스트</text>
+    <text x="12" y="127" font-family="Arial" font-size="11" fill="#888">TOEIC</text>
+    <text x="12" y="147" font-family="Arial" font-size="13" font-weight="bold" fill="#1A1A1A">해커스 토익 900+ 고득점반</text>
+    <text x="12" y="165" font-family="Arial" font-size="11" fill="#FFB800">★ 4.9</text>
+    <text x="12" y="185" font-family="Arial" font-size="14" font-weight="bold" fill="#1A1A1A">249,000원</text>
+  </g>
+
+  <g transform="translate(860,216)">
+    <rect width="278" height="195" rx="8" fill="white" filter="url(#s)"/>
+    <rect width="278" height="105" rx="8 8 0 0" fill="#4A90D9"/>
+    <text x="12" y="127" font-family="Arial" font-size="11" fill="#888">TOEIC</text>
+    <text x="12" y="147" font-family="Arial" font-size="13" font-weight="bold" fill="#1A1A1A">토익 입문 기초반</text>
+    <text x="12" y="165" font-family="Arial" font-size="11" fill="#FFB800">★ 4.6</text>
+    <text x="12" y="185" font-family="Arial" font-size="14" font-weight="bold" fill="#1A1A1A">99,000원</text>
+  </g>
+
+  <g transform="translate(272,428)">
+    <rect width="278" height="195" rx="8" fill="white" filter="url(#s)"/>
+    <rect width="278" height="105" rx="8 8 0 0" fill="#E31837"/>
+    <text x="12" y="127" font-family="Arial" font-size="11" fill="#888">TOEFL</text>
+    <text x="12" y="147" font-family="Arial" font-size="13" font-weight="bold" fill="#1A1A1A">해커스 토플 iBT 80+ 종합반</text>
+    <text x="12" y="165" font-family="Arial" font-size="11" fill="#FFB800">★ 4.8</text>
+    <text x="12" y="185" font-family="Arial" font-size="14" font-weight="bold" fill="#1A1A1A">299,000원</text>
+  </g>
+
+  <g transform="translate(566,428)">
+    <rect width="278" height="195" rx="8" fill="white" filter="url(#s)"/>
+    <rect width="278" height="105" rx="8 8 0 0" fill="#C41230"/>
+    <rect x="8" y="8" width="36" height="18" rx="9" fill="#00A651"/>
+    <text x="14" y="21" font-family="Arial" font-size="10" fill="white" font-weight="bold">NEW</text>
+    <text x="12" y="127" font-family="Arial" font-size="11" fill="#888">TOEFL</text>
+    <text x="12" y="147" font-family="Arial" font-size="13" font-weight="bold" fill="#1A1A1A">토플 Speaking 집중반</text>
+    <text x="12" y="165" font-family="Arial" font-size="11" fill="#FFB800">★ 4.7</text>
+    <text x="12" y="185" font-family="Arial" font-size="14" font-weight="bold" fill="#1A1A1A">189,000원</text>
+  </g>
+
+  <g transform="translate(860,428)">
+    <rect width="278" height="195" rx="8" fill="white" filter="url(#s)"/>
+    <rect width="278" height="105" rx="8 8 0 0" fill="#FF6B00"/>
+    <rect x="8" y="8" width="48" height="18" rx="9" fill="#E31837"/>
+    <text x="14" y="21" font-family="Arial" font-size="10" fill="white" font-weight="bold">베스트</text>
+    <text x="12" y="127" font-family="Arial" font-size="11" fill="#888">영어회화</text>
+    <text x="12" y="147" font-family="Arial" font-size="13" font-weight="bold" fill="#1A1A1A">왕초보 영어회화 탈출</text>
+    <text x="12" y="165" font-family="Arial" font-size="11" fill="#FFB800">★ 4.8</text>
+    <text x="12" y="185" font-family="Arial" font-size="14" font-weight="bold" fill="#1A1A1A">79,000원</text>
+  </g>
+
+  <!-- Pagination -->
+  <rect x="540" y="648" width="36" height="36" rx="4" fill="#E31837"/>
+  <text x="553" y="671" font-family="Arial" font-size="14" fill="white" font-weight="bold">1</text>
+  <rect x="584" y="648" width="36" height="36" rx="4" fill="white"/>
+  <text x="597" y="671" font-family="Arial" font-size="14" fill="#888">2</text>
+  <rect x="628" y="648" width="36" height="36" rx="4" fill="white"/>
+  <text x="641" y="671" font-family="Arial" font-size="14" fill="#888">3</text>
+</svg>
